@@ -1,0 +1,21 @@
+h2 {
+    color: red;
+        font-size: 25px;
+        font-weight: bold;
+  }
+
+.service-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #33ccff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+h5 {
+    font-weight: normal;
+    font-size: 15px;
+    color:#bfbfbf;
+  }
+  

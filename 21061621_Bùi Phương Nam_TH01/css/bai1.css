@@ -1,0 +1,29 @@
+h2 {
+  color: red;
+      font-size: 25px;
+      font-weight: bold;
+}
+  h1 {
+      font-weight: normal;
+      font-size: 25px;
+  }
+  h3 {
+    font-weight: bold;
+    font-size: 25px;
+}
+h4 {
+  font-weight: bold;
+  font-size: 15px;
+  
+}
+
+
+.product-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}

@@ -1,0 +1,30 @@
+.tag-container {
+  background-color: white;
+  padding: 0;
+  border-radius: 20px;
+}
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 10px;
+}
+.tag {
+    display: inline-flex;
+    padding: 5px 10px;
+    margin: 10px;
+    background-color: #23f62a;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: : bolder;
+}
+h2 {
+    color: red;
+        font-size: 25px;
+        font-weight: bold;
+  }
+  h3 {
+    font-weight: bold;
+    font-size: 25px;
+}
